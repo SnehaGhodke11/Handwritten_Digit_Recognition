@@ -1,6 +1,6 @@
+opencv-python
 streamlit
 numpy
 pandas
-scikit-learn
-xgboost
-scipy
+tensorflow
+streamlit-drawable-canvas
